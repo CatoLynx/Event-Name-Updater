@@ -1,5 +1,8 @@
 __pycache__/
 .venv/
+settings.py
 secrets.py
 *.session
 events.csv
+.fedi-client-secret
+.fedi-user-secret

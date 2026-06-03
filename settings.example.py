@@ -6,4 +6,4 @@ TG_DEFAULT_SUFFIX = "" # Suffix to add to the name if no event is active or upco
 USE_FEDI = True
 FEDI_SINGLE_MODE = True # True to show only the next event, False to show all
 FEDI_EVENT_LOOKAHEAD_DAYS = 7
-FEDI_DEFAULT_SUFFIX = ", registered LynxⓁ" # Suffix to add to the name if no event is active or upcoming
+FEDI_DEFAULT_SUFFIX = "" # Suffix to add to the name if no event is active or upcoming
