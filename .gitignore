@@ -3,6 +3,5 @@ __pycache__/
 settings.py
 secrets.py
 *.session
-events.csv
 .fedi-client-secret
 .fedi-user-secret
